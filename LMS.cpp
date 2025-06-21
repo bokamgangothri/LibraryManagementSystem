@@ -513,7 +513,7 @@ gotoxy(35,14);
 std::cout<<"MANAGEMENT";
 gotoxy(35,17);
 std::cout<<"SYSTEM";
-std::cout<<" \n  by: Chahat"; 
+std::cout<<" \n  by: Gangothri"; 
 getch();
 }
 void adminmenu()
